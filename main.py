@@ -1,2 +1,2 @@
 print('i dont want to break free')
-print('vmi van a lwevegoben')
+print('vmi van a levegoben')
